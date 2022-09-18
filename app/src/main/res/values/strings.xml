@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VideoPlayer</string>
+    <string name="cd_play">Play video</string>
+    <string name="cd_pause">Pause Video</string>
 </resources>
