@@ -2,4 +2,6 @@
     <string name="app_name">VideoPlayer</string>
     <string name="cd_play">Play video</string>
     <string name="cd_pause">Pause Video</string>
+    <string name="cd_display_controls">Display video controls</string>
+    <string name="cd_hide_controls">Hide video controls</string>
 </resources>
